@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tailored by Fitted/EditProViewController.swift"
+            timestampString = "523846165.554338"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tailored_by_Fitted.EditProViewController.__deallocating_deinit"
+                  moduleName = "Tailored by Fitted"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hgpmac26/Desktop/fittedProjects/Tailored%20by%20Fitted/Tailored%20by%20Fitted/EditProViewController.swift"
+                  timestampString = "523848488.571486"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tailored_by_Fitted.EditProViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Tailored_by_Fitted.EditProViewController"
+                  moduleName = "Tailored by Fitted"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hgpmac26/Desktop/fittedProjects/Tailored%20by%20Fitted/Tailored%20by%20Fitted/EditProViewController.swift"
+                  timestampString = "523848488.574985"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "70">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tailored_by_Fitted.EditProViewController.__allocating_init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Tailored_by_Fitted.EditProViewController"
+                  moduleName = "Tailored by Fitted"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hgpmac26/Desktop/fittedProjects/Tailored%20by%20Fitted/Tailored%20by%20Fitted/EditProViewController.swift"
+                  timestampString = "523848488.577834"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tailored_by_Fitted.EditProViewController.__allocating_init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Tailored_by_Fitted.EditProViewController&gt;"
+                  moduleName = "Tailored by Fitted"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hgpmac26/Desktop/fittedProjects/Tailored%20by%20Fitted/Tailored%20by%20Fitted/EditProViewController.swift"
+                  timestampString = "523848488.58163"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tailored_by_Fitted.EditProViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Tailored_by_Fitted.EditProViewController&gt;"
+                  moduleName = "Tailored by Fitted"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hgpmac26/Desktop/fittedProjects/Tailored%20by%20Fitted/Tailored%20by%20Fitted/EditProViewController.swift"
+                  timestampString = "523848488.584852"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "31">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tailored by Fitted/EditProViewController.swift"
+            timestampString = "523845137.971985"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "EditProViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tailored by Fitted/LoginViewController.swift"
+            timestampString = "523846165.554338"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tailored by Fitted/LoginViewController.swift"
+            timestampString = "523846165.554338"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tailored by Fitted/LoginViewController.swift"
+            timestampString = "523846165.554338"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "login()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tailored_by_Fitted.LoginViewController.login () -&gt; ()"
+                  moduleName = "Tailored by Fitted"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hgpmac26/Desktop/fittedProjects/Tailored%20by%20Fitted/Tailored%20by%20Fitted/LoginViewController.swift"
+                  timestampString = "523848488.613271"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "993">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tailored_by_Fitted.LoginViewController.(login () -&gt; ()).(closure #1)"
+                  moduleName = "Tailored by Fitted"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hgpmac26/Desktop/fittedProjects/Tailored%20by%20Fitted/Tailored%20by%20Fitted/LoginViewController.swift"
+                  timestampString = "523848488.616633"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "59">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tailored by Fitted/LoginViewController.swift"
+            timestampString = "523845971.708373"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "createNewUserProfile(email:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tailored_by_Fitted.LoginViewController.createNewUserProfile (email : Swift.String) -&gt; ()"
+                  moduleName = "Tailored by Fitted"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hgpmac26/Desktop/fittedProjects/Tailored%20by%20Fitted/Tailored%20by%20Fitted/LoginViewController.swift"
+                  timestampString = "523848488.622545"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "27">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tailored_by_Fitted.LoginViewController.createNewUserProfile (email : Swift.String) -&gt; ()"
+                  moduleName = "Tailored by Fitted"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hgpmac26/Desktop/fittedProjects/Tailored%20by%20Fitted/Tailored%20by%20Fitted/LoginViewController.swift"
+                  timestampString = "523848488.624874"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "434">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tailored by Fitted/EditProViewController.swift"
+            timestampString = "523845993.198059"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
+            landmarkName = "updateUsersProfile()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tailored by Fitted/CamViewController.swift"
+            timestampString = "523848486.544766"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "CamViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tailored_by_Fitted.CamViewController.storageRef.getter : Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.StorageReference&gt;"
+                  moduleName = "Tailored by Fitted"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hgpmac26/Desktop/fittedProjects/Tailored%20by%20Fitted/Tailored%20by%20Fitted/CamViewController.swift"
+                  timestampString = "523848488.631129"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "35">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tailored_by_Fitted.CamViewController.storageRef.setter : Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.StorageReference&gt;"
+                  moduleName = "Tailored by Fitted"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hgpmac26/Desktop/fittedProjects/Tailored%20by%20Fitted/Tailored%20by%20Fitted/CamViewController.swift"
+                  timestampString = "523848488.634064"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tailored_by_Fitted.CamViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Tailored_by_Fitted.CamViewController"
+                  moduleName = "Tailored by Fitted"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hgpmac26/Desktop/fittedProjects/Tailored%20by%20Fitted/Tailored%20by%20Fitted/CamViewController.swift"
+                  timestampString = "523848488.636626"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "218">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tailored_by_Fitted.CamViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Tailored_by_Fitted.CamViewController&gt;"
+                  moduleName = "Tailored by Fitted"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hgpmac26/Desktop/fittedProjects/Tailored%20by%20Fitted/Tailored%20by%20Fitted/CamViewController.swift"
+                  timestampString = "523848488.640166"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "138">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tailored by Fitted/CamViewController.swift"
+            timestampString = "523847289.775528"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "CamViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tailored_by_Fitted.CamViewController.databaseRef.getter : Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.DatabaseReference&gt;"
+                  moduleName = "Tailored by Fitted"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hgpmac26/Desktop/fittedProjects/Tailored%20by%20Fitted/Tailored%20by%20Fitted/CamViewController.swift"
+                  timestampString = "523848488.650068"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "35">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tailored_by_Fitted.CamViewController.databaseRef.setter : Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.DatabaseReference&gt;"
+                  moduleName = "Tailored by Fitted"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hgpmac26/Desktop/fittedProjects/Tailored%20by%20Fitted/Tailored%20by%20Fitted/CamViewController.swift"
+                  timestampString = "523848488.654465"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tailored_by_Fitted.CamViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Tailored_by_Fitted.CamViewController"
+                  moduleName = "Tailored by Fitted"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hgpmac26/Desktop/fittedProjects/Tailored%20by%20Fitted/Tailored%20by%20Fitted/CamViewController.swift"
+                  timestampString = "523848488.659503"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "248">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tailored_by_Fitted.CamViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Tailored_by_Fitted.CamViewController&gt;"
+                  moduleName = "Tailored by Fitted"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hgpmac26/Desktop/fittedProjects/Tailored%20by%20Fitted/Tailored%20by%20Fitted/CamViewController.swift"
+                  timestampString = "523848488.662691"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "165">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tailored by Fitted/CamViewController.swift"
+            timestampString = "523847312.42795"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "sharePhoto(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tailored_by_Fitted.CamViewController.sharePhoto (Any) -&gt; ()"
+                  moduleName = "Tailored by Fitted"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hgpmac26/Desktop/fittedProjects/Tailored%20by%20Fitted/Tailored%20by%20Fitted/CamViewController.swift"
+                  timestampString = "523848488.669848"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "2170">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tailored_by_Fitted.CamViewController.(sharePhoto (Any) -&gt; ()).(closure #1)"
+                  moduleName = "Tailored by Fitted"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hgpmac26/Desktop/fittedProjects/Tailored%20by%20Fitted/Tailored%20by%20Fitted/CamViewController.swift"
+                  timestampString = "523848488.6724"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "136">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tailored by Fitted/CamViewController.swift"
+            timestampString = "523847325.367159"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "sharePhoto(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
